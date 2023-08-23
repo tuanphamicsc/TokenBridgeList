@@ -1,0 +1,25 @@
+{
+  "name": "Miexs Smartchain",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/tuanphamicsc/TokenBridgeList/main/mix_logo.png",
+  "keywords": [
+    "mix",
+    "wmix"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped MIX",
+      "address": "0xfF940BE84f4fc7590212028106F511F86C78F699",
+      "symbol": "WMIX",
+      "decimals": 18,
+      "chainId": 761412,
+      "logoURI": "https://raw.githubusercontent.com/tuanphamicsc/TokenBridgeList/main/mix_logo.png"
+    }
+  ]
+}
