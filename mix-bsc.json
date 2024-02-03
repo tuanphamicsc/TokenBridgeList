@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 761412,
       "logoURI": "https://raw.githubusercontent.com/tuanphamicsc/TokenBridgeList/main/mix_logo.png"
+    },
+    {
+      "name": "XVindax.tech",
+      "address": "0xCEa1657f8d6463886564Ac8fF3ad19d13cDeb61d",
+      "symbol": "SAIX",
+      "decimals": 18,
+      "chainId": 761412,
+      "logoURI": "https://raw.githubusercontent.com/tuanphamicsc/TokenBridgeList/main/mix_logo.png"
     }
   ]
 }
